@@ -94,4 +94,4 @@ The technical content of the procedures — tools, configurations, workflows, an
 ---
 
 *Lucas Souza — IT Support | Endpoint & Identity Operations*  
-[linkedin.com/in/lucassouza](https://linkedin.com/in/lucassouza) · [github.com/](https://github.com/)
+[linkedin.com/in/lucaspereirasou](https://linkedin.com/in/lucaspereirasou) · [github.com/LucasSouza-Procedures](https://github.com/avatarpds/LucasSouza-Procedures/)
